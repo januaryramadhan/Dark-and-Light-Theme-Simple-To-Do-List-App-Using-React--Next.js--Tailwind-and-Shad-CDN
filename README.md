@@ -15,4 +15,4 @@ This is a simple Todo List application that I built using Next.js, React, and Sh
 2. Install dependencies with `npm install`
 3. Run the application with `npm run start`
 
-Enjoy using the application!
+Enjoy using the application.
